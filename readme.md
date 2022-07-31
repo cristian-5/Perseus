@@ -14,8 +14,9 @@ Repo: https://github.com/PerseusDL/lexica/
 ## Installation
 
 Copy the `Latin.dictionary` folder (which you can find under `objects`)
-in the Apple Dictionary folder.\\
+in the Apple Dictionary folder.\
 The folder location gets updated every year so check with Apple docs.
+This year it's `~/Library/Dictionaries/`.
 
 ## Suggest Changes
 
