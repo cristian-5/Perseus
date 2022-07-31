@@ -9,6 +9,8 @@ The National Endowment for the Humanities.
 Data accessed from https://github.com/PerseusDL/lexica/ during 2022.
 Repo: https://github.com/PerseusDL/lexica/
 
+![Perseus Dictionary](Perseus.png)
+
 ## Installation
 
 Copy the `Latin.dictionary` folder (which you can find under `objects`)
