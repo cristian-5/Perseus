@@ -1,0 +1,42 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+* {
+	font-family: serif;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+h1 { font-size: 2.5em; }
+orth { font-weight: bold; }
+
+case {
+	font-weight: medium;
+	font-style: italic;
+	color: -apple-system-secondary-label;
+}
+
+quote { }
+
+author {
+	font-weight: bold;
+	color: -apple-system-label;
+	font-style: italic;
+}
+
+bibl { color: -apple-system-secondary-label; }
+
+ol { margin-bottom: 1em; }
+
+ol.roman { list-style-type: lower-roman; }
+ol.alpha { list-style-type: upper-alpha; }
+ol.greek { list-style-type: lower-greek; }
+
+ol li {
+	font-size: 1em;
+	padding: 2px 0;
+}
+
+ol li::marker {
+	color: -apple-system-secondary-label;
+}

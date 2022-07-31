@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.dictionary.Latin</string>
+	<key>CFBundleName</key>
+	<string>Latin</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Oxford Clarendon Press 1879, Trustees of Tufts University: Perseus Project 1997</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Perseus Project</string>
+</dict>
+</plist>
