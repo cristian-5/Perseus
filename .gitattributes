@@ -1,3 +1,4 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 *.data filter=lfs diff=lfs merge=lfs -text
 *.index filter=lfs diff=lfs merge=lfs -text
+*.offsets filter=lfs diff=lfs merge=lfs -text
